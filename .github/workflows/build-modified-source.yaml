@@ -9,8 +9,8 @@ env:
   FILE_NAME: "tailscaled"
   REPO: "tailscale/tailscale"
   # TODO: If you have forked or copied this code you need to change to your repository here.
-  REPO_SMALL: "lwbt/ts_build_test"
-  GIT_AUTHOR_NAME: "lwbt"
+  REPO_SMALL: "hejin/ts_build_test"
+  GIT_AUTHOR_NAME: "hejin"
   GIT_AUTHOR_EMAIL: "lwbt_pipeline@github.com"
 jobs:
   check-versions:
